@@ -5,6 +5,23 @@ This is the simplest possible nodejs api using express that responds to [Github 
 ### Deploy it in 7 seconds: 
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
 
+### To use the API add the following in the end:
+
+```
+/api/${github_username}
+```
+or
+
+```
+/api/repos/${github_username}
+```
+
+or
+
+```
+/api/lang/${github_username}/${repo_name}
+```
+
 
 
 ### Run on Local Machine

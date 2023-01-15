@@ -4,10 +4,16 @@ This is the simplest possible nodejs api using express that responds to [Github 
 
 ### Deploy it in 7 seconds: 
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+<div className="bg-white" style="color: black">
+  <a href="https://github-website.vercel.app/">Deployed on Vercel</a>
+</div>
+
 
 
 ### Run on Local Machine
+
+Install or Download all the files on your local machine
+<br>
 
 Step 1: Install all the npm packages
 
